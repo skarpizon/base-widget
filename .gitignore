@@ -1,0 +1,7 @@
+*.orig
+.idea/
+
+node_modules/
+dist/
+*.lock
+*.error
